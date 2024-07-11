@@ -1,2 +1,2 @@
 # Underwater-Vehicle-H-infinity-Robust-Control
-Config files for my GitHub profile.
+Loop-shaping H-infinity robust control of an underactuated underwater vehicle.
